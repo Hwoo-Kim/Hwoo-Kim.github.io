@@ -6,40 +6,54 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am currently a Ph.D. candidate in chemistry at KAIST. I am interested in deep learning methods for chemistry and drug discovery - molecular property control, predicting biomolecular conformations, and synthesis planning.
+[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=YpiY1q8AAAAJ) | [GitHub](https://github.com/Hwoo-Kim) | [LinkedIn](https://www.linkedin.com/in/hyeongwoo-kim-784bb2291/)
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
+<!--
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+-->
 
-## Publications
+## Educations
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Publications and preprints
+<!-- DDSBM -->
+**Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation**<br>
+Jun Hyeong Kim\*, Seonghwan Kim\*, Seokhyun Moon\*, <u>Hyeongwoo Kim</u>\*, Jeheon Woo\*, Woo Youn Kim<br>
+ICLR 2025<br>
+[Paper](https://openreview.net/forum?id=tQyh0gnfqW)
 
-## Typography
+<!-- DeepBioisostere -->
+**DeepBioisostere: Discovering Bioisosteres with Deep Learning for a Fine Control of Multiple Molecular Properties**<br>
+<u>Hyeongwoo Kim</u>\*, Seokhyun Moon\*, Wonho Zhung, Jaechang Lim, Woo Youn Kim<br>
+Arxiv preprints, 2024<br>
+[Paper](https://arxiv.org/abs/2403.02706) | [Code](https://github.com/Hwoo-Kim/DeepBioisostere)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+<!-- DeepICL -->
+**3D molecular generative framework for interaction-guided drug design**<br>
+Wonho Zhung\*, <u>Hyeongwoo Kim</u>, Woo Youn Kim<br>
+Nature Communications, 2024<br>
+[Paper](https://www.nature.com/articles/s41467-024-47011-2) | [Code](https://github.com/ACE-KAIST/DeepICL)
 
-Here is a table
+<!-- DFRscore -->
+**DFRscore: Deep learning-based scoring of synthetic complexity with drug-focused retrosynthetic analysis for high-throughput virtual screening**<br>
+<u>Hyeongwoo Kim</u>\*, Kynghoon Lee\*, Chansu Kim, Jaechang Lim, Woo Youn Kim<br>
+Journal of Chemical Information and Modeling, 2023<br>
+[Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c01134) | [Code](https://github.com/Hwoo-Kim/DFRscore)
+
+## Draft papers
+<!-- Differentiable structure of Kabsch -->
+**Differentiable Structure of the Kabsch Algorithm** (2025)<br>
+<u>Hyeongwoo Kim</u>\*<br>
+[Paper]()
+
+## Conference
+
+## Awards
 
 Year | Award | Category
 -----|-------|--------
 2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

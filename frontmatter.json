@@ -1,0 +1,27 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.preview.host": "http://127.0.0.1:4000/researcher//",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "_content",
+      "path": "[[workspace]]/_content"
+    }
+  ],
+  "frontMatter.git.enabled": true
+}
