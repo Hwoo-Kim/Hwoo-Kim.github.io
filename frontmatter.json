@@ -16,12 +16,7 @@
   ],
   "frontMatter.framework.id": "jekyll",
   "frontMatter.content.publicFolder": "assets",
-  "frontMatter.preview.host": "http://127.0.0.1:4000/researcher//",
-  "frontMatter.content.pageFolders": [
-    {
-      "title": "_content",
-      "path": "[[workspace]]/_content"
-    }
-  ],
+  "frontMatter.preview.host": "http://127.0.0.1:4000/",
+  "frontMatter.content.pageFolders": [],
   "frontMatter.git.enabled": true
 }

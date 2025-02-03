@@ -4,9 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="static/images/profile.jpg">
 
-I am currently a Ph.D. candidate in chemistry at KAIST. I am interested in deep learning methods for chemistry and drug discovery - molecular property control, predicting biomolecular conformations, and synthesis planning.
+I am currently a Ph.D. candidate in chemistry at KAIST. I am interested in deep learning methods for chemistry and drug discovery - quantum chemistry, molecular optimization, predicting biomolecular conformations, and synthesis planning.
 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=YpiY1q8AAAAJ) | [GitHub](https://github.com/Hwoo-Kim) | [LinkedIn](https://www.linkedin.com/in/hyeongwoo-kim-784bb2291/)
 
 <!--
@@ -46,14 +46,14 @@ Journal of Chemical Information and Modeling, 2023<br>
 <!-- Differentiable structure of Kabsch -->
 **Differentiable Structure of the Kabsch Algorithm** (2025)<br>
 <u>Hyeongwoo Kim</u>\*<br>
-[Paper]()
+[Paper](files/Differentiable_Structure_of_the_Kabsch_Algorithm.pdf)
 
 ## Conference
 
 ## Awards
 
+<!--
 Year | Award | Category
 -----|-------|--------
 2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+-->
