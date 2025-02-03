@@ -1,26 +1,18 @@
 ---
 layout: default
-is_contact: true
+is_contact: false
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## Email
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+[novainco98@kaist.ac.kr](mailto:novainco98@kaist.ac.kr) / [novainco98@gmail.com](mailto:novainco98@gmail.com)
 
 ---
 
 ## Social
 
+<!--
 1. [Facebook](#)
 2. [Twitter](#)
 3. [Google+](#)
+-->

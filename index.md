@@ -15,6 +15,7 @@ I am interested in deep learning methods for chemistry and drug discovery - quan
 My research focuses on how to integrate physics and chemistry into deep learning methods to solve large-scale systems such as proteins.
 I am very interested in Physics-Informed Neural Networks (PINN), geometric deep learning, and generative models.
 
+---
 
 ## Educations
 <!-- KAIST - Ph.D. -->
@@ -31,6 +32,8 @@ KAIST presidential fellowship (KPF)
 <!-- Kangwon science highschool -->
 **Kangwon Science High School**<br>
 March 2014 - February 2016
+
+---
 
 ## Publications and preprints
 <!-- DDSBM -->
@@ -57,11 +60,7 @@ Nature Communications, 2024<br>
 Journal of Chemical Information and Modeling, 2023<br>
 [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c01134) | [Code](https://github.com/Hwoo-Kim/DFRscore)
 
-## Draft papers
-<!-- Differentiable structure of Kabsch -->
-**Differentiable Structure of the Kabsch Algorithm** (2025)<br>
-<u>Hyeongwoo Kim</u>\*<br>
-[Paper](files/Differentiable_Structure_of_the_Kabsch_Algorithm.pdf)
+---
 
 ## Presentations
 <!-- 2024 spring KIChe -->
@@ -81,6 +80,15 @@ ENSS: Estimating the Number of Synthetic Steps by Graph-based Deep Learning for 
 **The Excellent Poster Award in the 2022 Spring Korean Chemistry Society Conference**<br>
 ENSS: Estimating the Number of Synthetic Steps by Graph-based Deep Learning for Virtual Screening (2022)<br>
 [Poster](files/2022_spring_KCS_ENSS.pdf)
+
+---
+
+## Draft papers
+<!-- Differentiable structure of Kabsch -->
+**Differentiable Structure of the Kabsch Algorithm** (2025)<br>
+<u>Hyeongwoo Kim</u>\*<br>
+[Paper](files/Differentiable_Structure_of_the_Kabsch_Algorithm.pdf)
+
 
 <!--
 Year | Award | Category
