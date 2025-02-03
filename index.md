@@ -74,13 +74,13 @@ DeepBioisostere: Discovering Bioisosteres with Deep Learning for a Delicate Cont
 **2022 Spring Korean Chemistry Society Conference - Poster**<br>
 ENSS: Estimating the Number of Synthetic Steps by Graph-based Deep Learning for Virtual Screening (2022)<br>
 <u>Hyeongwoo Kim</u>\*, Kynghoon Lee\*, Woo Youn Kim<br>
-[Poster](files/2022_spring_KSC_ENSS.pdf)
+[Poster](files/2022_spring_KCS_ENSS.pdf)
 
 ## Awards
 <!-- 2022 spring KCS -->
 **The Excellent Poster Award in the 2022 Spring Korean Chemistry Society Conference**<br>
 ENSS: Estimating the Number of Synthetic Steps by Graph-based Deep Learning for Virtual Screening (2022)<br>
-[Poster](files/2022_spring_KSC_ENSS.pdf)
+[Poster](files/2022_spring_KCS_ENSS.pdf)
 
 <!--
 Year | Award | Category
