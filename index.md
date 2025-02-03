@@ -6,16 +6,31 @@ layout: default
 
 <img class="profile-picture" src="static/images/profile.jpg">
 
-I am currently a Ph.D. candidate in chemistry at KAIST. I am interested in deep learning methods for chemistry and drug discovery - quantum chemistry, molecular optimization, predicting biomolecular conformations, and synthesis planning.<br>
+I am currently a Ph.D. candidate in chemistry at KAIST.
+I am interested in deep learning methods for chemistry and drug discovery - quantum chemistry, molecular optimization, predicting biomolecule structures, and synthesis planning.<br>
 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=YpiY1q8AAAAJ) | [GitHub](https://github.com/Hwoo-Kim) | [LinkedIn](https://www.linkedin.com/in/hyeongwoo-kim-784bb2291/)
 
-<!--
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
--->
+My research focuses on how to integrate physics and chemistry into deep learning methods to solve large-scale systems such as proteins.
+I am very interested in Physics-Informed Neural Networks (PINN), geometric deep learning, and generative models.
+
 
 ## Educations
+<!-- KAIST - Ph.D. -->
+**Korea Advanced Institute of Science and Technology (KAIST)**<br>
+September 2020 - present<br>
+Ph.D. candidate in Chemistry<br>
+
+<!-- KAIST - chemistry-->
+**Korea Advanced Institute of Science and Technology (KAIST)**<br>
+March 2016 - August 2020<br>
+Major in Chemistry, Minor in Physics<br>
+KAIST presidential fellowship (KPF)
+
+<!-- Kangwon science highschool -->
+**Kangwon Science High School**<br>
+March 2014 - February 2016
 
 ## Publications and preprints
 <!-- DDSBM -->
@@ -48,9 +63,24 @@ Journal of Chemical Information and Modeling, 2023<br>
 <u>Hyeongwoo Kim</u>\*<br>
 [Paper](files/Differentiable_Structure_of_the_Kabsch_Algorithm.pdf)
 
-## Conference
+## Presentations
+<!-- 2024 spring KIChe -->
+**2024 Spring Korean Institute of Chemical Engineers Meeting - Oral**<br>
+DeepBioisostere: Discovering Bioisosteres with Deep Learning for a Delicate Control of Multiple Molecular Properties<br>
+<u>Hyeongwoo Kim</u>\*, Seokhyun Moon\*, Wonho Zhung, Jaechang Lim, Woo Youn Kim<br>
+[PPT](files/2024_spring_KIChe_DeepBioisostere.pdf)
+
+<!-- 2022 spring KCS -->
+**2022 Spring Korean Chemistry Society Conference - Poster**<br>
+ENSS: Estimating the Number of Synthetic Steps by Graph-based Deep Learning for Virtual Screening (2022)<br>
+<u>Hyeongwoo Kim</u>\*, Kynghoon Lee\*, Woo Youn Kim<br>
+[Poster](files/2022_spring_KSC_ENSS.pdf)
 
 ## Awards
+<!-- 2022 spring KCS -->
+**The Excellent Poster Award in the 2022 Spring Korean Chemistry Society Conference**<br>
+ENSS: Estimating the Number of Synthetic Steps by Graph-based Deep Learning for Virtual Screening (2022)<br>
+[Poster](files/2022_spring_KSC_ENSS.pdf)
 
 <!--
 Year | Award | Category
