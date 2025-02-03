@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="static/images/profile.jpg">
 
-I am currently a Ph.D. candidate in chemistry at KAIST. I am interested in deep learning methods for chemistry and drug discovery - quantum chemistry, molecular optimization, predicting biomolecular conformations, and synthesis planning.
+I am currently a Ph.D. candidate in chemistry at KAIST. I am interested in deep learning methods for chemistry and drug discovery - quantum chemistry, molecular optimization, predicting biomolecular conformations, and synthesis planning.<br>
 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=ko&hl=ko&user=YpiY1q8AAAAJ) | [GitHub](https://github.com/Hwoo-Kim) | [LinkedIn](https://www.linkedin.com/in/hyeongwoo-kim-784bb2291/)
 
 <!--
